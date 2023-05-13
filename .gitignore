@@ -1,0 +1,12 @@
+.idea
+.vscode
+.gitattributes
+.env
+
+node_modules
+dist
+tests
+
+package-lock.json
+pnpm-lock.yaml
+yarn.lock

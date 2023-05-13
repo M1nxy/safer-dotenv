@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "strict": true,
+      "module": "ESNext",
+      "moduleResolution": "Node",
+      "target": "ESNext",
+      "lib": ["ESNext"],
+      "types": ["node"],
+      "declaration": true,
+      "declarationMap": true,
+      "outDir": "dist",
+      "incremental": true,
+      "isolatedModules": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "baseUrl": "src",
+    },
+    "include": ["src/**/**.ts"],
+}
